@@ -1,0 +1,5 @@
+{
+  "Selenium": {
+    "BrowsersToTest": [ "Firefox", "Chrome", "IE"]
+  }
+}
