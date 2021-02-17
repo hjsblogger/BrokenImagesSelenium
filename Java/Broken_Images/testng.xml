@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Broken Images Detection Demo">
+    <test verbose="2" preserve-order="true" name="Detect broken images in Selenium WebDriver">
+        <classes>
+            <class name="brokenimages.test_brokenimages">
+            </class>
+        </classes>
+    </test>
+</suite>
